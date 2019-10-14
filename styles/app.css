@@ -1,0 +1,321 @@
+*{
+margin: 0px auto;
+padding: 0px;
+border: 0px;
+outline: none;
+background: transparent;
+}
+
+/*==========================================================================*/
+
+
+html{
+width: 100%;
+height: 100%;
+min-height: 100vh;
+background: #377CE5 fixed;
+background: -moz-radial-gradient(center, ellipse cover, #377CE5 0%, #E248AF 100%) fixed;
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #377CE5), color-stop(100%, #E248AF)) fixed;
+background: -webkit-radial-gradient(center, ellipse cover, #377CE5 0%, #E248AF 100%) fixed;
+background: -o-radial-gradient(center, ellipse cover, #377CE5 0%, #E248AF 100%) fixed;
+background: -ms-radial-gradient(center, ellipse cover, #377CE5 0%, #E248AF 100%) fixed;
+background: radial-gradient(ellipse at center, #377CE5 0%, #E248AF 100%) fixed;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#377CE5', endColorstr='#E248AF', GradientType=1 ) fixed;
+background-size: 300% 300%;
+background-position: 50% 50%;
+-webkit-animation: AnimationName54 15s linear infinite;
+-moz-animation: AnimationName54 15s linear infinite;
+animation: AnimationName54 15s linear infinite;
+}
+
+
+@-webkit-keyframes AnimationName54 {
+    50%{background-size: 150% 150%;}
+}
+@-moz-keyframes AnimationName54 {
+    50%{background-size: 150% 150%;}
+}
+@keyframes AnimationName54 { 
+    50%{background-size: 150% 150%;}
+}
+
+
+html::-webkit-scrollbar-track {
+background: #7569D1;
+}
+html::-webkit-scrollbar {
+width: 9px;
+background: #7569D1;
+}
+html::-webkit-scrollbar-thumb {
+background: url(../img/content.png);
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+border: 1px solid #bbb;
+}
+
+html::-webkit-scrollbar-corner {
+background: #7569D1;
+}
+
+html::-webkit-resizer {
+background: #7569D1;
+}
+
+
+
+body{
+width: 96%;
+min-width: 200px;
+height: 100%;
+min-height: 100%;
+font-size: 1.2rem;
+line-height: 1.4;
+color:#fff;
+font-family: 'El Messiri', sans-serif;
+}
+
+
+::selection {
+background: transparent;
+}
+
+
+/*==========================================================================*/
+
+
+a {
+text-decoration: none;
+}
+
+
+/*==========================================================================*/
+
+
+.logo_top{
+background: url(../img/logo.png) no-repeat center;
+background-size: contain;
+width: 100%;
+height: 30vh;
+margin-top: 10px;
+margin-bottom: 10px;
+opacity: 0.7;
+-webkit-animation: AnimationName541 10s linear infinite;
+-moz-animation: AnimationName541 10s linear infinite;
+animation: AnimationName541 10s linear infinite;
+}
+
+
+
+@-webkit-keyframes AnimationName541 {
+    50%{opacity: 0.4;}
+}
+@-moz-keyframes AnimationName541 {
+    50%{opacity: 0.4;}
+}
+@keyframes AnimationName541 { 
+    50%{opacity: 0.4;}
+}
+
+
+
+/*==========================================================================*/
+
+
+
+.loadercontent {
+width: 100%;
+text-align: center;
+margin-top: 5vh;
+}
+
+
+.loadercontent img {
+width: 140px;
+height: 140px;
+opacity: 0.4;
+}
+
+
+
+/*==========================================================================*/
+
+
+.content *{
+display: inline-block;
+}
+
+
+
+.content{
+display: block;
+background: url(../img/content.png);
+width: 95%;
+max-width: 690px;
+margin-bottom: 40px;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+border: 1px solid #bbb;
+font-size: 17px;
+color:#fff;
+text-align: center;
+opacity: 0;
+}
+
+
+.contentin{
+width: auto;
+height: auto;
+padding:15px;
+}
+
+.content span{
+opacity: 0.7;
+}
+
+
+
+.content_button{
+display: inline-block;
+background: url(../img/content.png);
+width: 95px;
+height: 95px;
+padding: 20px;
+margin: 10px;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+border: 1px solid #d8d8d8;
+cursor: pointer;
+opacity: 0.7;
+text-align: center;
+}
+
+
+
+/*==========================================================================*/
+
+
+
+.cp-play{
+opacity: 1;
+}
+
+
+.cp-play:hover{
+-webkit-animation: migmigx7 1.5s linear infinite;
+animation: migmigx7 1.5s linear infinite;
+}
+@-webkit-keyframes migmigx7 {
+50% {
+opacity: 0.4;
+}
+}
+@keyframes migmigx7 {
+50% {
+opacity: 0.4;
+}
+}
+
+.cp-pause{
+-webkit-animation: migmigx71 1.5s linear infinite;
+animation: migmigx71 1.5s linear infinite;
+}
+@-webkit-keyframes migmigx71 {
+50% {
+opacity: 0.4;
+}
+}
+@keyframes migmigx71 {
+50% {
+opacity: 0.4;
+}
+}
+
+
+
+/*==========================================================================*/
+
+
+
+.footer{
+width: 100%;
+max-width: 650px;
+height: 70px;
+color: #A9BCAB;
+font-size: 0.9rem;
+text-align: center;
+}
+
+.footer a{
+text-decoration: none !important;
+color: #A9BCAB;
+}
+
+
+
+
+/*==========================================================================*/
+
+
+
+
+
+@media (max-width: 768px) {
+
+body{
+width: 100%;
+min-width: 200px;
+}
+
+.content{
+width: 100%;
+max-width: 100%;
+margin-bottom: 40px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+border: 1px solid #bbb;
+border-left: 0px;
+border-right: 0px;
+font-size: 17px;
+color:#fff;
+text-align: center;
+opacity: 0;
+}
+
+.contentin{
+padding: 10px;
+}
+
+}
+
+
+
+
+@media (max-width: 325px) {
+
+
+.content_button{
+width: 75px;
+height: 75px;
+padding: 10px;
+margin: 10px;
+}
+
+.content_button img{
+width: 75px;
+height: 75px;
+}
+
+
+
+}
+
+
+
+
+
+
