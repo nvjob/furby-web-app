@@ -6,6 +6,8 @@ The application works with any version of Furby, but has only basic basic functi
 The application allows you to: put Furby to bed, feed Furby, sing songs, speak and make different sounds by Furby themselves.<br>
 For the application to work, you need to add sound. Furby must hear the commands.
 
+https://nvjob.github.io/furby-web-app
+
 -------------------------------------------------------------------
 
 ### Authors
