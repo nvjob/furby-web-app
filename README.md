@@ -15,5 +15,8 @@ https://nvjob.github.io/furby-web-app
 ### Authors
 Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
+### License
+Furby brand and logo are owned by HASBRO, INC. - https://hasbro.com, https://docs.hasbro.com/ru-ru/legal/terms
+
 ### Donate
 Help for this project - https://nvjob.github.io/donate
