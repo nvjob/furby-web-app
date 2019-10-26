@@ -8,7 +8,7 @@ For the application to work, you need to add sound. Furby must hear the commands
 
 https://nvjob.github.io/furby-web-app
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/furby%20app/web/10/pic/1.png)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/furby%20app/web/10/pic/1.jpg)
 
 -------------------------------------------------------------------
 
