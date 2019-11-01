@@ -20,3 +20,6 @@ Furby brand and logo are owned by HASBRO, INC. - https://hasbro.com, https://doc
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate
+
+### Report a Problem
+Report a Problem / Issue Tracker / FAQ - https://nvjob.github.io/reportaproblem
