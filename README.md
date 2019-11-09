@@ -7,7 +7,7 @@ The application works with any version of Furby, but has only basic basic functi
 The application allows you to: put Furby to bed, feed Furby, sing songs, speak and make different sounds by Furby themselves.<br>
 For the application to work, you need to add sound. Furby must hear the commands.
 
-Web app - [nvjob.github.io/furby-web-app](https://nvjob.github.io/furby-web-app)
+**Web app** - [nvjob.github.io/furby-web-app](https://nvjob.github.io/furby-web-app)
 
 -------------------------------------------------------------------
 
@@ -15,14 +15,10 @@ Web app - [nvjob.github.io/furby-web-app](https://nvjob.github.io/furby-web-app)
 
 -------------------------------------------------------------------
 
-### Authors
-Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+**Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
 
-### License
-Furby brand and logo are owned by HASBRO, INC. - https://hasbro.com, https://docs.hasbro.com/legal/terms
+**License:** Furby brand and logo are owned by HASBRO, INC. - [hasbro.com](https://hasbro.com), [docs.hasbro.com/legal/terms](https://docs.hasbro.com/legal/terms)
 
-### Donate
-Help for this project - https://nvjob.github.io/donate
+**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
 
-### Report a Problem
-Report a Problem / Issue Tracker / FAQ - https://nvjob.github.io/reportaproblem
+**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
