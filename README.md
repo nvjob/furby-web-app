@@ -1,8 +1,7 @@
 # Furby Web App
 #### [nvjob.github.io/dlog/furby](https://nvjob.github.io/dlog/furby)
 
-Web app for playing with a smart toy Furby
-
+Web app for playing with a smart toy Furby.<br>
 This is a web application for playing with the Furby smart toy through any browser (except IE).<br>
 The application works with any version of Furby, but has only basic basic functions. <br>
 The application allows you to: put Furby to bed, feed Furby, sing songs, speak and make different sounds by Furby themselves.<br>
