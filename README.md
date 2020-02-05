@@ -18,5 +18,3 @@ For the application to work, you need to add sound. Furby must hear the commands
 **License:** Furby brand and logo are owned by HASBRO, INC. - [hasbro.com](https://hasbro.com), [docs.hasbro.com/legal/terms](https://docs.hasbro.com/legal/terms)
 
 **Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
-
-**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
